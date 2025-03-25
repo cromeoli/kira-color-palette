@@ -18,8 +18,8 @@
 
 ### Shades and Tints
 
-<img src="./assets/shades-and-tints/neutral-st.svg"/>
-<img src="./assets/shades-and-tints/pink-st.SVG"/>
+<img src="./assets/shades-and-tints/paper-st.svg"/>
+<img src="./assets/shades-and-tints/pink-st.svg"/>
 <img src="./assets/shades-and-tints/magenta-st.svg"/>
 <img src="./assets/shades-and-tints/violet-st.svg"/>
 <img src="./assets/shades-and-tints/blue-st.svg"/>
@@ -30,8 +30,8 @@
 
 ### UI Color Scales
 
-<img src="./assets/ui/neutral-ui.svg"/>
-<img src="./assets/ui/pink-ui.SVG"/>
+<img src="./assets/ui/paper-ui.svg"/>
+<img src="./assets/ui/pink-ui.svg"/>
 <img src="./assets/ui/magenta-ui.svg"/>
 <img src="./assets/ui/violet-ui.svg"/>
 <img src="./assets/ui/blue-ui.svg"/>
