@@ -229,7 +229,7 @@
 ## Shades and Tints
 
 ### Paper ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades  |
 |----------------------|-------------------|
 | `#E7E7E7`           | `#CECECE`         |
 | `#EAEAEA`           | `#B7B7B7`         |
@@ -242,7 +242,7 @@
 | `#FCFCFC`           | `#161616`         |
 
 ### Pink ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints       | Shades  |
 |----------------------|-------------------|
 | `#EDBAF6`           | `#D4A1DC`         |
 | `#EFC2F7`           | `#BC8FC4`         |
@@ -255,7 +255,7 @@
 | `#FDF7FE`           | `#171118`         |
 
 ### Magenta ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades  |
 |----------------------|-------------------|
 | `#C286FF`           | `#A96CE5`         |
 | `#C993FF`           | `#9660CC`         |
@@ -268,7 +268,7 @@
 | `#F8F1FF`           | `#120C19`         |
 
 ### Violet ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades  |
 |----------------------|-------------------|
 | `#6D7DFF`           | `#5363E5`         |
 | `#7D8BFF`           | `#4A58CC`         |
@@ -281,7 +281,7 @@
 | `#EEF0FF`           | `#090B19`         |
 
 ### Blue ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades  |
 |----------------------|-------------------|
 | `#3E7EFF`           | `#2464E5`         |
 | `#538CFF`           | `#2059CC`         |
@@ -294,7 +294,7 @@
 | `#E9F0FF`           | `#040B19`         |
 
 ### Celeste ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints    | Shades |
 |----------------------|-------------------|
 | `#55B7FF`           | `#3C9EE5`         |
 | `#68BFFF`           | `#358CCC`         |
@@ -307,7 +307,7 @@
 | `#ECF7FF`           | `#061119`         |
 
 ### Cyan ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades   |
 |----------------------|-------------------|
 | `#76E5DC`           | `#5CCCC3`         |
 | `#85E8E0`           | `#52B5AD`         |
@@ -320,7 +320,7 @@
 | `#EFFCFB`           | `#0A1615`         |
 
 ### Green ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints      | Shades   |
 |----------------------|-------------------|
 | `#7DD2A0`           | `#63B987`         |
 | `#8BD7AB`           | `#58A478`         |
@@ -333,7 +333,7 @@
 | `#F0FAF4`           | `#0B140E`         |
 
 ### Forest ST
-| Tints (Claros)       | Shades (Oscuros)  |
+| Tints       | Shades   |
 |----------------------|-------------------|
 | `#589F76`           | `#3F865C`         |
 | `#6BAA85`           | `#387752`         |
