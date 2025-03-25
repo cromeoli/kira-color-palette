@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80" viewBox="0 0 400 80">
+    <rect width="40" height="40" fill="#BC79FF" x="0" y="0" />
+    <rect width="40" height="40" fill="#c286ff" x="40" y="0" />
+    <rect width="40" height="40" fill="#c993ff" x="80" y="0" />
+    <rect width="40" height="40" fill="#d0a1ff" x="120" y="0" />
+    <rect width="40" height="40" fill="#d6aeff" x="160" y="0" />
+    <rect width="40" height="40" fill="#ddbcff" x="200" y="0" />
+    <rect width="40" height="40" fill="#e4c9ff" x="240" y="0" />
+    <rect width="40" height="40" fill="#ead6ff" x="280" y="0" />
+    <rect width="40" height="40" fill="#f1e4ff" x="320" y="0" />
+    <rect width="40" height="40" fill="#f8f1ff" x="360" y="0" />
+    <rect width="40" height="40" fill="#BC79FF" x="0" y="40" />
+    <rect width="40" height="40" fill="#a96ce5" x="40" y="40" />
+    <rect width="40" height="40" fill="#9660cc" x="80" y="40" />
+    <rect width="40" height="40" fill="#8354b2" x="120" y="40" />
+    <rect width="40" height="40" fill="#704899" x="160" y="40" />
+    <rect width="40" height="40" fill="#5e3c7f" x="200" y="40" />
+    <rect width="40" height="40" fill="#4b3066" x="240" y="40" />
+    <rect width="40" height="40" fill="#38244c" x="280" y="40" />
+    <rect width="40" height="40" fill="#251832" x="320" y="40" />
+    <rect width="40" height="40" fill="#120c19" x="360" y="40" />
+</svg>
